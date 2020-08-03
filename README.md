@@ -18,7 +18,7 @@ cd
 ls -a
 cd .ssh
 ls
-ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+ssh-keygen -t rsa -b 4096 -C "ownemailwhichislinkedtogithub.com"
 sohaibsohail
 (enter) x2 (no passcode)
 ```
