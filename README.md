@@ -31,3 +31,5 @@ This public key will be generated. This needs to be copied and pasted in the spe
 # It is essential to write descriptive names, sohaib-jenkins
 
 Now the secured public key from your local system has been copied over to the repo.
+
+- Private key access
